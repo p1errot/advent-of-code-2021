@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+code {
+  padding: 3px;
+  background-color: #ccc;
+  border-radius: 3px;
+}
+
+.days-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.days-list li {
+  padding: 2px 0;
+}
